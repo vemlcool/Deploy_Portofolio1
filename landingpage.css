@@ -1,0 +1,25 @@
+.base-landing{
+    background-color: rgb(228, 228, 228);
+    overflow: auto;
+}
+
+.landing-page{
+    display: flex;
+    background-color: rgb(228, 228, 228);
+    /* padding: 100px 10px 100px; */
+    height: 100vh;
+    width: 1200px;
+    max-width: calc(100% - 20px);
+    margin: 0 auto;
+    padding: 150px 10px;
+}
+
+.base-landing .landing-page .services{
+    padding: 150px 0px 0px 0px;
+    margin-left: 50px;
+}
+
+.base-landing .landing-page .services .h4{
+    padding: 150px 0px 0px 20px;
+}
+

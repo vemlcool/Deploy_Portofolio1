@@ -1,0 +1,192 @@
+*{
+    font-family: Alexandria !important;
+}
+
+.modal{
+    overflow:auto !important;
+    
+}
+
+.text-big{
+    font-size: 40px;
+}
+
+a {
+    text-decoration: none!important;
+    color:white !important;
+
+}
+
+.link {
+    color: rgb(31, 31, 31);
+}
+
+.link:hover {
+    color: rgb(255, 255, 255)!important;
+}
+
+.class-1 {
+    font-size: 24px;
+}
+
+.base-navtop{
+    background: rgb(228, 81, 81);
+    text-align: center;
+}
+
+.base-navtop .navbar{
+    padding: 10px;
+}
+
+.base{
+    padding-top: 60px;
+}
+
+.base .homepage{
+    background-color: rgb(228, 228, 228);
+    height: 93.5vh;
+}
+.base-projects .projects{
+    background-color: rgb(228, 228, 228);
+    position: absolute;
+    padding-top: 60px;
+    right: 0;
+    left: 0;
+    overflow: auto;
+    height: 100%;
+}
+
+.base-projects .projects .btn{
+    margin: 20px 0px 50px;
+}
+
+.base-projects .projects .btn .btn-create{
+    display: flex;
+    position: absolute;
+    margin-left:89%;
+    background-color: #A73034;
+    color: #fafafa;
+    border-radius: 15px;
+    padding: 5px 10px 5px;
+    box-shadow: 1px 2px #888888;
+    margin-top: 10px;
+}
+
+.base-form{
+    padding: 100px 0px 0px;
+    text-align: center;
+    height: 100%;
+    background-color: rgb(228, 228, 228);
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin-bottom: 100px;
+    overflow: auto;
+}
+
+.base-form2{
+    padding-top: 15px;
+    text-align: center;
+    height: 115vh;
+    background-color: rgb(228, 228, 228);
+    position: absolute;
+    right: 0;
+    left: 0;
+}
+
+.base-form2 .form{
+    background-color: white;
+    height: 100vh;
+    padding: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+
+.base-form2 .create{
+    background-color: white;
+    padding: 30px;
+    margin-top: 23px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.base-form2 .create-connector{
+    background-color: white;
+    padding: 30px;
+    margin-top: 125px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.base-form .form{
+    background-color: white;
+    height: 87vh;
+    padding: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+
+.base-form .create{
+    background-color: white;
+    padding: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.base-form .create-connector{
+    background-color: white;
+    padding: 30px;
+    margin-top: 125px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    width: 50vh;
+    border-radius: 20px;
+}
+
+.base .form-select{
+    padding-bottom: 10px;
+}
+
+.base .homepage{
+    padding-top: 50px;
+}
+
+.base .homepage .container-md{
+    padding: 10px;
+    background-color: white;
+}
+
+.base-form .btn-block{
+    width: 40vh ;
+    font-size: 16px;
+    margin: 0px;
+    padding: 6px 12px;
+}
+
+.button .btn-danger{
+    padding-left: 10px;
+}
+
+.base-form .img-setting{
+    padding-bottom: 30px;
+}
+
+
